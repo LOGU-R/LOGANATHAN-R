@@ -6,4 +6,9 @@ int main()
 	printf("%d",a);
 }
 
-COMPLETED
+HEAD COMPLETED
+
+
+
+ADD SOME CODE
+
